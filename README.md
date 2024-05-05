@@ -18,7 +18,7 @@ Le site web sera développé en utilisant les technologies suivantes:
 - PHP natif pour la partie back-end.
 - Base de données Postgresql pour stocker les informations sur les activités, les stands, les élèves et les inscriptions.
 
-# Compétences et Bonnes Pratiques Acquises
+## Compétences et Bonnes Pratiques Acquises
 
 En travaillant sur le projet du Salon Math, j'ai eu l'opportunité de développer et d'appliquer plusieurs compétences et bonnes pratiques essentielles en développement web :
 
